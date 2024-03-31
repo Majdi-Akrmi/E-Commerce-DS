@@ -4,9 +4,7 @@ This is an End-to-End data engineering project using some of the most powerful t
 
 ## Architecture
 
-[![App Screenshot](https://app.gemoo.com/share/image-annotation/633162537585242112?codeId=DWlWoea7GmL3p&origin=imageurlgenerator&card=633162534603091968)]
-
-
+[![Pipeline-Architecture.png](https://i.postimg.cc/TYByGVfc/Pipeline-Architecture.png)](https://postimg.cc/fJjWf033)
 
 ## Tech Stack
 
