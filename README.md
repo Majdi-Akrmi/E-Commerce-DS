@@ -16,3 +16,5 @@ This is an End-to-End data engineering project using some of the most powerful t
 
 **Data Visualization:** ElasticSearch, Kibana
 
+**Container Tech:** Docker
+
