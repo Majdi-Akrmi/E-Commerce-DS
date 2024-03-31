@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="FlinkCommerce" />
+          <option value="FlinkCommerce" />
+          <option value="FlinkCommerce" />
+          <option value="FlinkCommerce" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="commons-collections:commons-collections:3.2.2" />
+          <option value="org.apache.commons:commons-compress:1.21" />
+          <option value="org.apache.kafka:kafka-clients:3.2.3" />
+          <option value="org.postgresql:postgresql:42.6.0" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
